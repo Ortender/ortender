@@ -47,7 +47,7 @@ When I’m not coding, you’ll probably find me **climbing**, **playing handbal
 
 I’m also a big **board game enthusiast**, always on the lookout for new games and innovative mechanics. For me, it’s one of the best ways to **meet people, share ideas, and explore creativity through play**.  
 
-And when I’m at home, I love spending time in the kitchen — **trying out new recipes** and experimenting with flavors. My goal? To one day **create my own dishes from scratch**, blending curiosity and creativity just like I do with code.
+And when I’m at home, I love spending time in the kitchen — **trying out new recipes** and experimenting with flavors. One day i want to be able to **create my own dishes from scratch**.
 
 ---
 
