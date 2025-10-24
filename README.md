@@ -10,7 +10,7 @@ After more than 10 years leading digital projects for **Chanel**, **L’Oréal**
 ## 🚀 About Me
 - 🎯 **Past life:** 10+ years in tech consulting & product management — from rebuilding Alstom’s IT services for 50 000 users to launching a clienteling app for L’Oréal’s luxury stores.  
 - 💻 **Current mission:** Becoming a hands-on full-stack developer — because understanding users and designing experiences is great, but building them takes me even further.
-- 🏫 **Next step:** Starting the **Ironhack Bordeaux IA Web Development Bootcamp** and finding an apprenticeship.  
+- 🏫 **Next step:** Starting an **AI Web Development Bootcamp** and finding an apprenticeship.  
 - 🌍 Based in **Bordeaux**, France.
 
 ---
