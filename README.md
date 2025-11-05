@@ -10,15 +10,25 @@ After more than 10 years leading digital projects for **Chanel**, **L’Oréal**
 ## 🚀 About Me
 - 🎯 **Past life:** 10+ years in tech consulting & product management — from rebuilding Alstom’s IT services for 50 000 users to launching a clienteling app for L’Oréal’s luxury stores.  
 - 💻 **Current mission:** Becoming a hands-on full-stack developer — because understanding users and designing experiences is great, but building them takes me even further.
-- 🏫 **Next step:** Starting an **AI Web Development Bootcamp** and finding an apprenticeship.  
+- 🏫 **Next step:** Starting the training program **Application Designer and Developer** training at ENI and finding an internship.  
 - 🌍 Based in **Bordeaux**, France.
 
 ---
 
 ## 🧠 Tech Stack in Progress
-- **Frontend:** HTML · CSS · JavaScript · React  
-- **Backend:** Node.js · Express · PostgreSQL  
+
+- **Frontend:** HTML · CSS · JavaScript · React 
 - **Other explorations:** Python · Git · Figma  
+
+### 📚 Upcoming / In Training (ENI – Concepteur Développeur d’Applications)
+As part of my future training at [ENI École Informatique](https://www.eni-ecole.fr/formations/developpement/formation-concepteur-developpeur-applications-bac3/), I’ll be deepening my technical stack with:
+- ☕ **Java (Java SE, Spring Boot)** for object-oriented programming and backend services  
+- 🐘 **PHP & Symfony** for web application development
+- 🟩 **Node.js (Advanced)** for scalable server-side JavaScript applications  
+- 📱 **Kotlin & Flutter** for mobile app design and cross-platform development  
+- 🗄️ **SQL Server & Transact-SQL** for advanced database modeling and queries  
+- ⚙️ **DevOps fundamentals** to ensure efficient delivery 
+- 💡 **JavaScript (advanced) & Angular** for front-end architecture and dynamic UI design  
 
 ---
 
