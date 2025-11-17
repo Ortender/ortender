@@ -9,8 +9,7 @@ After more than 10 years leading digital projects for **Chanel**, **L’Oréal**
 
 ## 🚀 About Me
 - 🎯 **Past life:** 10+ years in tech consulting & product management — from rebuilding Alstom’s IT services for 50 000 users to launching a clienteling app for L’Oréal’s luxury stores.  
-- 💻 **Current mission:** Becoming a hands-on full-stack developer — because understanding users and designing experiences is great, but building them takes me even further.
-- 🏫 **Next step:** Starting the training program **Application Designer and Developer** training at ENI and finding an internship.  
+- 💻 **Current mission:** Becoming a hands-on full-stack developer — training program **Application Designer and Developer** at ENI and finding an internship.  
 - 🌍 Based in **Bordeaux**, France.
 
 ---
