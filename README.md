@@ -21,7 +21,7 @@ After more than 10 years leading digital projects for **Chanel**, **L’Oréal**
 - **Other explorations:** Python · Git · Figma  
 
 ### 📚 Upcoming / In Training (ENI – Application Designer and Developer)
-As part of my future training at [ENI École Informatique](https://www.eni-ecole.fr/formations/developpement/formation-concepteur-developpeur-applications-bac3/), I’ll be deepening my technical stack with:
+As part of training at [ENI École Informatique](https://www.eni-ecole.fr/formations/developpement/formation-concepteur-developpeur-applications-bac3/), I’m deepening my technical stack with:
 - ☕ **Java (Java SE, Spring Boot)** for object-oriented programming and backend services  
 - 🐘 **PHP & Symfony** for web application development
 - 🟩 **Node.js (Advanced)** for scalable server-side JavaScript applications  
