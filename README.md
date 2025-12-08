@@ -19,15 +19,13 @@ After more than 10 years leading digital projects for **Chanel**, **L’Oréal**
 - **Frontend:** HTML · CSS · JavaScript · React 
 - **Other explorations:** Python · Git · Figma  
 
-### 📚 Upcoming / In Training (ENI – Application Designer and Developer)
+### 📚 In Training (ENI – Application Designer and Developer)
 As part of training at [ENI École Informatique](https://www.eni-ecole.fr/formations/developpement/formation-concepteur-developpeur-applications-bac3/), I’m deepening my technical stack with:
-- ☕ **Java (Java SE, Spring Boot)** for object-oriented programming and backend services  
-- 🐘 **PHP & Symfony** for web application development
-- 🟩 **Node.js (Advanced)** for scalable server-side JavaScript applications  
-- 📱 **Kotlin & Flutter** for mobile app design and cross-platform development  
-- 🗄️ **SQL Server & Transact-SQL** for advanced database modeling and queries  
+- 💡 **TypeScript & Angular** for front-end architecture and dynamic UI design  
+- ☕ **Java (Java SE, Spring Boot, Spring Security)** for object-oriented programming and backend services  
+- 🟩 **Express.js** for scalable server-side JavaScript applications   
+- 🗄️ **Hibernate, SQL Server & Transact-SQL** for advanced database modeling and queries  
 - ⚙️ **DevOps fundamentals** to ensure efficient delivery 
-- 💡 **JavaScript (advanced) & Angular** for front-end architecture and dynamic UI design  
 
 ---
 
