@@ -9,35 +9,39 @@ After more than 10 years leading digital projects for **Chanel**, **L’Oréal**
 
 ## 🚀 About Me
 - 🎯 **Past life:** 10+ years in tech consulting & product management — from rebuilding Alstom’s IT services for 50 000 users to launching a clienteling app for L’Oréal’s luxury stores.  
-- 💻 **Current mission:** Becoming a hands-on full-stack developer — training program **Application Designer and Developer** at ENI and finding an internship.  
+- 💻 **Now:** Full-stack developer with a double profile — deep business/project experience + freshly acquired technical skills.
+- 🎓 **Training:** **CDA – Concepteur Développeur d'Applications** (Application Designer & Developer) at ENI.  
 - 🌍 Based in **Bordeaux**, France.
 
 ---
 
 ## 🧠 Tech Stack in Progress
 
-- **Frontend:** HTML · CSS · JavaScript · React 
-- **Other explorations:** Python · Git · Figma  
-
-### 📚 In Training (ENI – Application Designer and Developer)
-As part of training at [ENI École Informatique](https://www.eni-ecole.fr/formations/developpement/formation-concepteur-developpeur-applications-bac3/), I’m deepening my technical stack with:
-- 💡 **TypeScript & Angular** for front-end architecture and dynamic UI design  
-- ☕ **Java (Java SE, Spring Boot, Spring Security)** for object-oriented programming and backend services  
-- 🟩 **Express.js** for scalable server-side JavaScript applications   
-- 🗄️ **Hibernate, SQL Server & Transact-SQL** for advanced database modeling and queries  
-- ⚙️ **DevOps fundamentals** to ensure efficient delivery 
-
+- **Backend:** Java · Spring Boot · Spring Security · Hibernate · PHP · Symfony · Doctrine
+- **Frontend:** Angular · TypeScript · JavaScript · HTML · CSS
+- **Databases:** SQL Server · Transact-SQL
+- **Tools & practices:** Git · GitLab · Figma
+  
 ---
 
 ## 🧩 Projects
 
-### 🥦 Recipe Season Feasibility Checker *(WIP)*
-A project that analyzes recipe ingredients and provides users with the best months to cook them, based on Greenpeace’s seasonal fruits and vegetables calendar.  
-Next step: building a **React UI**.
+### 📚 [BookHub](https://github.com/Ortender/bookhub_frontend)
 
-### 🪶 [JanKenPon](https://ortender.github.io/JanKenPon/)
-A fun take on the classic Rock-Paper-Scissors game.  
-Built with **HTML, CSS, JS**, this project goes beyond the tutorial expectations — featuring "animations" and a playful UX.
+A community library platform to browse books and manage user accounts.  
+End-of-training project (ENI), built as a pair with Xiaowei REN.
+- **Backend:** Java / Spring Boot 4.0.3
+- **Frontend:** Angular 21
+- Repos: [bookhub_frontend](https://github.com/Ortender/bookhub_frontend) & [bookhub_backend](https://github.com/xiaowei-ren/bookhub)
+
+### 🧪 Sacré Lab — Internship (Mar – Apr 2026)
+
+Worked on **Collab**, a coworking-space booking app (**Symfony 7.4, PHP 8.4, Doctrine, MySQL**), at a web agency.
+
+- 🧾 **Designed, built and deployed an invoice archiving & consultation feature**: customers and admins can retrieve their Stripe invoices directly from the app (Stripe webhook integration, Doctrine modeling, and Twig interface).
+- ♻️ **Refactored the SwitchBot service** (smart-device API) behind an interface with a "fake" implementation for non-production environments.
+- ⬆️ **Led the Symfony 7.2 → 7.4 LTS upgrade**, from the architecture decision to the dependency migration.
+- ✅ Built the app's test plan and wrote unit & integration tests (**PHPUnit**), then deployed to production (Infomaniak).
 
 ---
 
@@ -45,16 +49,16 @@ Built with **HTML, CSS, JS**, this project goes beyond the tutorial expectations
 Throughout my career, I’ve managed complex ecosystems and multidisciplinary teams —  
 but the most rewarding part has always been **bridging business, design, and technology**.
 
-Now, I want to be the **bridge**.
+Now I'm completing that bridge: not just designing solutions, but also building them.
 
 ---
 
 ## 🏔️ Beyond Code
-When I’m not coding, you’ll probably find me **climbing**, **playing handball**, or **hitting a few balls on the tennis court** — I love staying active and challenging myself.  
+When I’m not coding, you’ll probably find me **climbing**, **playing handball**, or **hitting a few balls on the tennis court**.  
 
 I’m also a big **board game enthusiast**, always on the lookout for new games and innovative mechanics. For me, it’s one of the best ways to **meet people, share ideas, and explore creativity through play**.  
 
-And when I’m at home, I love spending time in the kitchen — **trying out new recipes** and experimenting with flavors. One day i want to be able to **create my own dishes from scratch**.
+And when I’m at home, I love spending time in the kitchen.
 
 ---
 
