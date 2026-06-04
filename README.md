@@ -8,8 +8,8 @@ After more than 10 years leading digital projects for **Chanel**, **L’Oréal**
 ---
 
 ## 🚀 About Me
-- 🎯 **Past life:** 10+ years in tech consulting & product management — from rebuilding Alstom’s IT services for 50 000 users to launching a clienteling app for L’Oréal’s luxury stores.  
-- 💻 **Now:** Full-stack developer with a double profile — deep business/project experience + freshly acquired technical skills.
+- 🎯 **Past life:** 10+ years in tech consulting & product management, from rebuilding Alstom’s IT services for 50 000 users to launching a clienteling app for L’Oréal’s luxury stores.  
+- 💻 **Now:** Full-stack developer with a double profile : deep business/project experience + freshly acquired technical skills.
 - 🎓 **Training:** **CDA – Concepteur Développeur d'Applications** (Application Designer & Developer) at ENI.  
 - 🌍 Based in **Bordeaux**, France.
 
@@ -64,6 +64,6 @@ And when I’m at home, I love spending time in the kitchen.
 
 ## 📫 Let’s Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/charles-tonneau/)
-- ✉️ Feel free to reach out — I love talking about creative ways to use technology to solve problems and make life easier!
+- ✉️ Feel free to reach out!
 
 ---
